@@ -1,0 +1,2 @@
+5. Understanding Different Types of Honeypots
+Honeypots are decoy systems designed to attract attackers. Tools like HoneyBOT simulate vulnerable targets, allowing organizations to detect, analyze, and learn from attack attempts. This intelligence helps strengthen real network defenses and distracts adversaries from valuable assets.
