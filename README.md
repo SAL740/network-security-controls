@@ -1,43 +1,32 @@
 # Network Security Controls
-# Network Security Controls – Technical Controls
+network-security-controls/
+├── .github/
+│   └── ISSUE_TEMPLATE/
+│       └── bug_report.md
+│       └── feature_request.md
+├── docs/
+│   └── protocols.md
+│   └── segmentation.md
+│   └── firewalls.md
+│   └── ids_ips.md
+│   └── honeypots.md
+│   └── proxies.md
+│   └── vpn.md
+│   └── controls.md
+│   └── load_balancing.md
+│   └── antivirus.md
+├── labs/
+│   └── firewall_lab.md
+│   └── ids_lab.md
+│   └── vpn_lab.md
+│   └── segmentation_lab.md
+├── images/
+│   └── segmentation_diagram.png
+│   └── firewall_types.png
+├── .gitignore
+├── LICENSE
+├── README.md
+├── CONTRIBUTING.md
+└── CHANGELOG.md
 
-A comprehensive resource for understanding and implementing core network security controls, based on EC-Council CCT best practices.
-
-## Table of Contents
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Documentation](#documentation)
-- [Labs](#labs)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Overview
-This project covers:
-- Network Security Protocols
-- Network Segmentation
-- Firewalls
-- IDS/IPS
-- Honeypots
-- Proxy Servers
-- VPNs
-- Other Security Controls
-- Load Balancing
-- Antivirus/Anti-malware
-
-## Getting Started
-1. Clone the repo
-2. Read the [docs](docs/) for each topic
-3. Try the [labs](labs/) for hands-on practice
-
-## Documentation
-See the [docs/](docs/) folder for detailed explanations.
-
-## Labs
-Hands-on exercises are in the [labs/](labs/) folder.
-
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help improve this project.
-
-## License
-This project is licensed under the MIT License.
 
